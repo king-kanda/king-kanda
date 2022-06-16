@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/K-Kelvin/K-Kelvin/master/extras/wave.gif" width="30px" height="25px">
+
+**Delighted to have you check out my profile**🙂
+---
+- 💬 Ask me anything about anything websity
+- 🌟 I'm currently learning NextJS and React , 🙃
+-  😄 Pronouns: Oya
+- ⚡ Fun fact: i'm a freelance web dev and probably a bug developer <br>
 
 <!--
 **king-kanda/king-kanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
