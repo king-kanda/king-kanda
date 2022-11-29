@@ -3,8 +3,8 @@
 **Delighted to have you check out my profile**🙂
 ---
 - 💬 Ask me anything about anything websity
-- 🌟 I'm currently learning NextJS and React , 🙃
--  😄 Pronouns: Oya
+- 🌟 I'm currently learning Every Possible Frontend Framework focusing on Next js and Using React , 🙃
+- 🔭 I’m currently working on Safirisha and A Travel website built with Next JS
 - ⚡ Fun fact: i'm a freelance web dev and probably a bug developer <br>
 
 <!--
