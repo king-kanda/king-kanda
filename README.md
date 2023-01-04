@@ -1,4 +1,11 @@
-### Hi there <img src="https://raw.githubusercontent.com/K-Kelvin/K-Kelvin/master/extras/wave.gif" width="30px" height="25px">
+### Hi there I'm Steven <img src="https://raw.githubusercontent.com/K-Kelvin/K-Kelvin/master/extras/wave.gif" width="30px" height="25px">
+
+### Now Playing — Spotify 🎧
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=itvhfg2wucf7pakqdlv8bbden&redirect=true">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=itvhfg2wucf7pakqdlv8bbden&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color_cover=true&bar_color=53b14f)"/>
+</a>
+</p>
 
 **Delighted to have you check out my profile**🙂
 ---
