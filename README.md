@@ -43,7 +43,7 @@ I build things at the intersection of **AI, automation, and web systems** — fr
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=king-kanda&show_icons=true&theme=radical" height="180em" />
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king-kanda&layout=compact&theme=radical" height="180em" />
   <img src="https://streak-stats.demolab.com?user=king-kanda&theme=radical&date_format=j%20M%5B%20Y%5D" height="180em" />
 
