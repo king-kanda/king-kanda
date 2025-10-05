@@ -35,7 +35,7 @@ I build things at the intersection of **AI, automation, and web systems** — fr
 - **AI Engineering** → RAG pipelines, LangChain, LangGraph, LlamaIndex.  
 - **DSA** → sharpening problem solving & algorithms.  
 - **Backend Concepts** → rate limiting, logging, distributed queues, multi-tenancy.  
-- ☕ + ⚡ powered by **Red Bulls & Long Islands**.  
+- ☕ + ⚡ powered by **Red Bulls & if it exists i can probably build it**.  
 
 ---
 
