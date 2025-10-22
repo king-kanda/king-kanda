@@ -1,10 +1,7 @@
 # Hey, I’m Steven 👋  
 
-💻 **Software Engineer | Full-Stack Developer | SaaS Builder | AI Explorer**  
+💻 **Software Engineer | SaaS Builder | AI Explorer**  
 
-I build things at the intersection of **AI, automation, and web systems** — from **scalable SaaS platforms** to **AI-powered assistants** to **e-commerce ecosystems**. My workflow usually includes a few tabs of Next.js, FastAPI, and… maybe a Red Bull or a Long Island.  
-
----
 <div align="center">
 
   <h2>🛠️ Tech Stack</h2>
@@ -24,20 +21,6 @@ I build things at the intersection of **AI, automation, and web systems** — fr
 
 </div>
 
----
-
-## 🚀 Projects & Work   
-- **Hireswam** – Talent-matching & recruiting platform.  
-- **Wayyo.cx** – **e-commerce agency**, helping businesses automate stores.    
----
-
-## 🌱 Currently Learning  
-- **AI Engineering** → RAG pipelines, LangChain, LangGraph, LlamaIndex.  
-- **DSA** → sharpening problem solving & algorithms.  
-- **Backend Concepts** → rate limiting, logging, distributed queues, multi-tenancy.  
-- ☕ + ⚡ powered by **Red Bulls & if it exists i can probably build it**.  
-
----
 
 ## 📊 GitHub Stats  
 
@@ -52,13 +35,3 @@ I build things at the intersection of **AI, automation, and web systems** — fr
 ---
 
 <img width="220" height="135" alt="image" src="https://github.com/user-attachments/assets/9248ce94-ecbc-46af-8628-853f0013edf7" />
-
-
-## 🌐 Connect with Me  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)  
-
----
-
-⚡ *Always down to collab on AI, SaaS, or automation projects that solve real-world problems.*  
